@@ -1,6 +1,6 @@
-# Hallo, willkommen auf meinem Github
+# Hallo, willkommen auf meinem Github :computer:
 
-Ich absolviere derzeit das **Web-Development-Bootcamp** bei **Neue Fische**
+Ich absolviere derzeit das **Web-Development-Bootcamp** bei **Neue Fische** :bulb:
 
 > Name: `Emanuel Arca`
 
