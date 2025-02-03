@@ -2,20 +2,20 @@
 
 Ich absolviere derzeit das **Web-Development-Bootcamp** bei **Neue Fische**
 
-> Name: Emanuel Arca
+> Name: `Emanuel Arca`
 
-> Wohnort: Mayen
+> Wohnort: `Mayen`
 
-> Geburtsdatum: 06.11.1991
+> Geburtsdatum:`06.11.1991`
 
 `Ich bin gelernter Einzelhandelskaufmann und möchte mich beruflich weiterentwickeln und in der Web Entwicklung Fuß fassen. Ich bin in Mayen Nahe der Stadt Koblenz geboren und lebe auch seither dort.`
 
 
 
-Mein größtes Hobby ist **Fußball**, ich bin seit meiner Kindheit Fan vom Verein Inter Mailand
+Mein größtes Hobby ist **Fußball**, ich bin seit meiner Kindheit Fan vom Verein Inter Mailand.
 
 ![Inter Mailand ](https://s.hs-data.com/bilder/teamfotos/640x360/507.jpg)
 
-| Skills | Bewertung |
-| :--- | ----: |
+| Skills | 
+| :--- | ---: |
 
