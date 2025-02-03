@@ -16,6 +16,5 @@ Mein größtes Hobby ist **Fußball** :soccer: - Ich bin seit meiner Kindheit Fa
 
 ![Inter Mailand ](https://s.hs-data.com/bilder/teamfotos/640x360/507.jpg)
 
-| Skills | 
-| :--- | ---: |
+
 
