@@ -1,4 +1,4 @@
-# Hallo, willkommen auf meinem Github :computer::wave:
+# Hallo, willkommen auf meinem Github Profil  :computer::wave:
 ---
 Ich absolviere derzeit das **Web-Development-Bootcamp** bei **Neue Fische** :bulb:
 ---
