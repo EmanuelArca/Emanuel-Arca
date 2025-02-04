@@ -4,7 +4,7 @@ Ich absolviere derzeit das **Web-Development-Bootcamp** bei **Neue Fische** :bul
 ---
 > Name: `Emanuel Arca`
 
-> Wohnort: `Mayen`
+> Wohnort: `56727 Mayen`
 
 > Geburtsdatum: `06.11.1991`
 
